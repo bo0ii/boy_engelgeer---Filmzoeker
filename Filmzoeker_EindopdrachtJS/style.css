@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color:white;
+    margin-bottom:20px;
+}
+
+nav {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+nav input {
+    margin-left:50px;
+}
+
+nav label {
+    margin: 5px;
+}
+
+#movielist {
+    margin: 0 auto;
+    
+}
+
+#movielist li {
+    display: inline;
+    
+}
+
+#movielist img {
+    padding: 20px;
+}
